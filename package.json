@@ -1,0 +1,15 @@
+{
+  "name": "easy_soap_request_example",
+  "version": "1.0.0",
+  "description": "Sending SOAP requests using the easy-soap-request module",
+  "main": "easy-soap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fell",
+  "license": "ISC",
+  "dependencies": {
+    "easy-soap-request": "^2.3.0",
+    "xml-js": "^1.6.8"
+  }
+}
